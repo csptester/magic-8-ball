@@ -189,7 +189,7 @@ mySprite = sprites.create(img`
     `, SpriteKind.Player)
 answerlist = [
 "As I see it, yes",
-"Better not tell you now",
+"Better not tell you right now",
 "Concentrate and ask again",
 "Don't count on it",
 "Most likely",
